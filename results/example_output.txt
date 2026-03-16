@@ -1,0 +1,14 @@
+Input audio:
+sample.wav
+
+Predicted transcription:
+"el niño está jugando en el parque"
+
+Reference transcription:
+"el niño está jugando en el parque"
+
+Word Error Rate:
+0.07
+
+Accuracy:
+93%
